@@ -1,7 +1,19 @@
 # JobFishApp
-CRUD Job Board APP With Auth &amp; Database
+A responsive full stack job board app that allows users to read job posts and be able to create an account in order to post job descriptions, allowing options to update and delete their own job posts.
 
-## Features
+[Live Link](https://job-board-app-mern.netlify.app/)
+
+## Technologies
+
+### Frontend
+* **Languages**: HTML5, CSS3, JavaScript ES6
+* **Frameworks**: React, Redux, TypeScript, Material UI
+
+### Backend
+* **Frameworks**: NodeJS, Express, MongoDB
+
+## Technical Features
+
 - Login, Register and Logout functionality with JWT (jsonwebtoken).
 - REST Jobs API created with Express & MongoDB.
 - Global Redux State to manage authenticated user functionality, job posts CRUD functionality and displaying feedback messages to client.
