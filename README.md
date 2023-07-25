@@ -24,3 +24,7 @@ A responsive full stack job board app that allows users to read job posts and be
 - Front-end sort, pagination and search functionality.
 - Material UI for building UI and usage of TypeScript.
 - Fully responsive across devices for optimal user experience.
+
+#### Note
+
+The backend server spins down due to inactivity. Please visit https://job-board-app.onrender.com/ to make the server active so that the site at https://job-board-app-mern.netlify.app/ will work properly.
