@@ -23,4 +23,4 @@ A responsive full stack job board app that allows users to read job posts and be
 - Reusable create job component that allows to either create a job or edit a job based on options prop.
 - Front-end sort, pagination and search functionality.
 - Material UI for building UI and usage of TypeScript.
-- Fully responsive across devices.
+- Fully responsive across devices for optimal user experience.
