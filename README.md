@@ -27,4 +27,4 @@ A responsive full stack job board app that allows users to read job posts and be
 
 #### Note
 
-The backend server spins down due to inactivity. Please visit https://job-board-app.onrender.com/ to make the server active so that the site at https://job-board-app-mern.netlify.app/ will work properly.
+Backend server down due to Render changing to paid plans.
