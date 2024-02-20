@@ -27,4 +27,4 @@ A responsive full stack job board app that allows users to read job posts and be
 
 #### Note
 
-Backend server down due to Render changing to paid plans.
+Backend server down due to Render changing to paid plans so there will be no jobs displayed.
